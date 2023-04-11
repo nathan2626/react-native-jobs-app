@@ -8,6 +8,10 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 npx create-react-native-app -t with-router
 ```
 
+```sh
+expo-cli start --tunnel
+```
+
 ## 📝 Notes
 
 - [Expo Router: Docs](https://expo.github.io/router)
